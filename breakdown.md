@@ -1,5 +1,7 @@
 # Portfolio project: HTTPS and controlled interception
 
+This project brief provides phased instructions for configuring the HTTPS endpoint, testing proxy certificate trust, capturing traffic, documenting evidence, and cleaning up the lab.
+
 > Use this as a project brief in ChatGPT. Work through one phase at a time; ask for my actual outputs and screenshots before stating findings. Never invent packet numbers, certificate details, or test results. Troubleshoot each failure before moving on.
 
 ## Outcome
