@@ -11,3 +11,7 @@ Documents the direct curl test of the HTTPS origin and its certificate validatio
 ## [02-direct-tls-wireshark.png](02-direct-tls-wireshark.png)
 
 Records the direct HTTPS exchange in Wireshark, showing TLS handshake metadata while HTTP request content remains encrypted.
+
+## [03-untrusted-proxy-rejected.png](03-untrusted-proxy-rejected.png)
+
+Documents certificate verification rejection when the Ubuntu client uses the proxy without trusting its lab certificate authority.
