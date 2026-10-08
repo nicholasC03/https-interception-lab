@@ -86,4 +86,4 @@ This is controlled, explicit proxying with deliberate client trust. The proxy cr
 
 Stop mitmproxy and any temporary certificate-transfer server. Remove the downloaded lab CA when finished. Terminate unused EC2 resources and remove or repoint the DNS record, or document why the endpoint is retained. Cleanup completion has not been established in this record.
 
-Keep raw captures, proxy flow dumps, credentials, private keys, and CA directories outside Git. The ignore rules provide a backstop; inspect staged files before every push. See [UPLOAD.md](UPLOAD.md) for upload commands.
+Keep raw captures, proxy flow dumps, credentials, private keys, and CA directories outside Git. The ignore rules provide a backstop; inspect staged files before every push. Follow the [GitHub upload guide](UPLOAD.md) to synchronize your local copy, review publication contents, and commit and push updates.
