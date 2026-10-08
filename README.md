@@ -1,5 +1,7 @@
 # HTTPS and Controlled Interception Lab
 
+This README guides readers through the lab topology, certificate-trust tests, screenshot evidence, reproduction steps, and limitations.
+
 An owned AWS HTTPS endpoint, an Ubuntu client VM, and a Kali explicit proxy demonstrate how certificate trust affects HTTPS inspection. Wireshark records network traffic; mitmproxy displays decoded requests when the client deliberately trusts the proxy's certificate authority (CA).
 
 ## Topology
