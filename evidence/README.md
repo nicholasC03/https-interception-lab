@@ -19,3 +19,7 @@ Documents certificate verification rejection when the Ubuntu client uses the pro
 ## [04-trusted-proxy-flow.png](04-trusted-proxy-flow.png)
 
 Documents the fictional request inspected in mitmproxy after the client explicitly trusts the lab CA for a single curl invocation.
+
+## [05-proxy-wire-capture.png](05-proxy-wire-capture.png)
+
+Records the client-to-proxy connection in Wireshark, distinguishing the HTTP CONNECT tunnel setup from the encrypted TLS traffic that follows.
