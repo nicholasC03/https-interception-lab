@@ -1,0 +1,23 @@
+# Captures, proxy exports, secrets, and private lab materials
+*.pcap
+*.pcapng
+*.cap
+*.mitm
+*.key
+*.pem
+*.p12
+*.pfx
+*.jks
+.env
+.env.*
+private/
+https-lab-private/
+.mitmproxy/
+letsencrypt/
+.ssh/
+*.log
+*.vdi
+*.vmdk
+*.qcow2
+*.ova
+.DS_Store
