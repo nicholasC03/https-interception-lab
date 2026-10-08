@@ -1,5 +1,7 @@
 # Observations
 
+This record summarizes reported lab results, connects them to screenshot evidence, and distinguishes observed findings from unverified details.
+
 ## Record scope
 
 This summary uses the lab information reported during the project. Screenshots should accompany the repository. Packet numbers, exact certificate issuer/validity fields, and software versions are not transcribed here because the available text does not establish them. No values are inferred from the planned configuration.
