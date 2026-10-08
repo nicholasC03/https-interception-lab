@@ -15,3 +15,7 @@ Records the direct HTTPS exchange in Wireshark, showing TLS handshake metadata w
 ## [03-untrusted-proxy-rejected.png](03-untrusted-proxy-rejected.png)
 
 Documents certificate verification rejection when the Ubuntu client uses the proxy without trusting its lab certificate authority.
+
+## [04-trusted-proxy-flow.png](04-trusted-proxy-flow.png)
+
+Documents the fictional request inspected in mitmproxy after the client explicitly trusts the lab CA for a single curl invocation.
