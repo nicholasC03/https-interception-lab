@@ -1,4 +1,4 @@
-# Captures, proxy exports, secrets, and private lab materials
+# Excludes packet captures, proxy exports, credentials, private certificates, logs, and VM images from version control.
 *.pcap
 *.pcapng
 *.cap
